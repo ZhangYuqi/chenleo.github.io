@@ -5,6 +5,11 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
+  //test 
+  background-image: url('https://raw.github.com/chenleo/Resource/master/Images/FirstKiss1600X1200.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background--attachment: fixed;
 }
 
 h1, h2, h3, h4, h5, h6 {
